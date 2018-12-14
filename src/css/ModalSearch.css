@@ -1,0 +1,31 @@
+.divModalSearch {
+    width: 90%;
+    max-width: 730px;
+    margin: auto;
+}
+
+.push-back {
+    margin-bottom: 10px;
+}
+
+.divSelect {
+    background: #44484d;
+    text-align: left;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    min-height: 200px;
+}
+
+.select-default {
+    width: 200px !important;
+}
+
+.full-width,
+.full-width .ant-form-item-control-wrapper{
+    width: 100%;
+}
+
+.ant-collapse-header{
+    text-align: left;
+}
